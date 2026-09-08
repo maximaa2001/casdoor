@@ -982,6 +982,8 @@
     "Org balance - Tooltip": "Organizasyon bakiyesi - Araç ipucu",
     "Password expire days": "Şifre son kullanma günleri",
     "Password expire days - Tooltip": "Şifre son kullanma günleri - Araç ipucu",
+    "Password history count": "Şifre geçmişi sayısı",
+    "Password history count - Tooltip": "Yeniden kullanılamayan son şifre sayısı (mevcut şifre dahil). 0 veya 1: yalnızca mevcut şifre.",
     "Prompt": "İstem",
     "Required": "Gerekli",
     "Soft deletion": "Yumuşak silme",

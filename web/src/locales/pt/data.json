@@ -982,6 +982,8 @@
     "Org balance - Tooltip": "Dica: saldo da organização",
     "Password expire days": "Dias para expiração da senha",
     "Password expire days - Tooltip": "Dica: dias para expiração da senha",
+    "Password history count": "Contagem do histórico de senhas",
+    "Password history count - Tooltip": "Quantas senhas recentes não podem ser reutilizadas, incluindo a atual. 0 ou 1: apenas a senha atual.",
     "Prompt": "Mensagem de pedido",
     "Required": "Obrigatório",
     "Soft deletion": "Exclusão suave",
